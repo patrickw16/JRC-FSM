@@ -18,8 +18,8 @@
 ### global parameters shared among models and simulations ###
 
 # vehicle dimensions
-length = 4.3
-width = 1.9
+length = 5.09
+width = 2
 
 # simulation parameters
 iterations = 350
