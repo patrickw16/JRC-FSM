@@ -48,7 +48,7 @@ class vehicle(object):
         self.CC_rt = 0.75
         self.CC_rt_counter = self.CC_rt
         self.CC_min_jerk = 12.65
-        self.CC_max_deceleration = 7 #0.774 * 9.81
+        self.CC_max_deceleration = 6 #0.774 * 9.81
         self.CC_release_deceleration = 0.4  # deceleration when not stepping on the accelerator pedal (I think)
         self.CC_critical_ttc = 2
 
